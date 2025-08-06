@@ -1,0 +1,22 @@
+study,topic,methodology,range,aspects,mw_specific,country
+alberti2019platforms,general,adhoc,?,architecture protocols interoperability ai security,False,Brazil Brazil Brazil Brazil Brazil Brazil Brazil
+alfalouji2022iot,energy,adhoc,?,protocols efficiency requirements usability implementation,True,Austria Austria Germany Germany Germany Germany Germany Germany Austria
+amjad2021systematic,iiot,slr,2014~2020,protocols,False,Pakistan Pakistan Pakistan Pakistan
+aslam2021survey,multimedia,adhoc,?,requirements context ai,True,Ireland Ireland
+barros2022anatomy,general,sms,2011~2022,architecture evaluation requirements implementation,False,Brazil Brazil Brazil Brazil Brazil Brazil
+duarte2020using,aal,sms,2013~2017,architecture requirements evaluation,False,Brazil Brazil France France Brazil
+friha2021internet,agriculture,adhoc,?,approach requirements implementation,False,Algeria China UK
+goudarzi2022resource,discovery,slr,2016~2021,ai interoperability,False,Iran Taiwan Iran
+goumopoulos2024smart,city,slr,2010~2024,architecture approach security requirements ai context,True,Greece
+jagarlamudi2022requirements,context,adhoc,?,context,True,Australia Australia Australia Australia Australia
+kassab2020az,general,adhoc,?,architecture approach interoperability protocols implementation security,False,Jordan Jordan
+martinlopo2020literature,energy,adhoc,?,architecture protocols interoperability implementation requirements usability security efficiency,False,Spain Spain Spain
+medeiros2022middleware,general,slr,2016~2022,architecture requirements protocols,True,Brazil Brazil Brazil
+pradeep2019mom,context,adhoc,2001~2018,context,False,India India
+rahman2020comprehensive,general,adhoc,?,architecture interoperability usability efficiency,False,India India
+shammar2020internet,general,adhoc,?,architecture approach,False,Yemen Yemen
+siddiqui2022toward,sdn,slr,2010~2022,architecture security requirements efficiency protocols implementation,False,Pakistan Pakistan UK Finland UK Estonia Austria
+silva2023energy,energy,slr,2013~2022,architecture efficiency implementation evaluation,True,France France France France Brazil Brazil
+souki2022survey,context,adhoc,?,context interoperability ai,True,Tunisia Tunisia Tunisia France
+vikash2021middleware,wsn,adhoc,?,architecture approach requirements interoperability security,True,India India India
+zhang2021middleware,general,slr,2001~2020,architecture approach requirements interoperability context security,True,China China China China

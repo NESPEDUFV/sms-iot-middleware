@@ -1,0 +1,563 @@
+label,reference,cited_by,is_primary,iot_related,self_nomenclature,assigned_nomenclature
+AllJoyn,tomanek2016security,alberti2019platforms,1,1,framework,platform
+ALMANAC,bonino2015almanac,alberti2019platforms,1,1,platform,platform
+Aneka,gubbi2013internet,alberti2019platforms,1,1,,platform
+Arrowhead,varga2015service,alberti2019platforms,1,1,framework,framework
+AWS IoT,,alberti2019platforms,0,1,,platform
+ClouT,yonezawa2015citizen,alberti2019platforms,1,1,platform,platform
+COMPaaS,amaral2015cooperative,alberti2019platforms,1,1,middleware platform,platform
+DIAT,sarkar2014diat,alberti2019platforms,1,1,architecture,architecture
+FIWARE,ramparany2014handling,alberti2019platforms,0,1,platform,platform
+FIWARE,fernandez2016smartport,alberti2019platforms,0,1,,platform
+IoTivity,iotivity,alberti2019platforms,0,1,framework,
+LwM2M,lwm2m,alberti2019platforms,0,1,,framework
+ManIoT,antunes2016maniot,alberti2019platforms,1,1,platform,platform
+MbDSAS,marotta2013through,alberti2019platforms,1,1,system,approach
+MobilityFirst,,alberti2019platforms,0,1,,architecture
+NDN,,alberti2019platforms,0,1,,architecture
+NovaGenesis,alberti2017advancing,alberti2019platforms,1,1,architecture,architecture
+NovaGenesis,alberti2017naming,alberti2019platforms,1,1,architecture,architecture
+OpenIoT,soldatos2015openiot,alberti2019platforms,1,1,platform,middleware platform
+SmartSantander,sanchez2013smartsantander,alberti2019platforms,1,1,architecture,infrastructure
+SENSEI,tsiatsis2010sensei,alberti2019platforms,1,1,architecture,
+SENSEI,presser2009sensei,alberti2019platforms,1,1,architecture,
+ThingWorx,,alberti2019platforms,0,1,,platform
+Apache Kafka,garg2013apache,alfalouji2022iot,0,1,broker,system
+Aidon Gateware,aidon,alfalouji2022iot,0,1,,service
+AWS IoT,awsiot,alfalouji2022iot,0,1,,platform
+Cisco Kinetic,ciscokinetic,alfalouji2022iot,0,1,platform,platform
+CO4 Cloud,co4cloud,alfalouji2022iot,0,1,,platform
+Re:dy,redy,alfalouji2022iot,0,1,,service
+Element IoT,elementiot,alfalouji2022iot,0,1,,platform
+EnergyIP,energyip2021,alfalouji2022iot,0,1,,service
+EnergyIP,energyip2020,alfalouji2022iot,0,1,,service
+Enerbrain SRL,enerbrain,alfalouji2022iot,0,1,,company
+FIWARE,cirillo2019standard,alfalouji2022iot,1,1,platform,middleware framework
+Azure IoT,azureiot,alfalouji2022iot,0,1,,platform
+Niota,niota2021,alfalouji2022iot,0,1,,platform
+Niota,niota2020,alfalouji2022iot,0,1,,platform
+OdinS,odins,alfalouji2022iot,0,1,platform,infrastructure
+TICK-Stack,tickstack,alfalouji2022iot,0,1,platform,platform
+@Gorges,gorges2014using,amjad2021systematic,1,1,framework,middleware
+@Thangavel,thangavel2014performance,amjad2021systematic,1,1,middleware,middleware
+SDN-DDS,hakiri2015publish,amjad2021systematic,1,1,architecture,middleware
+CORBA,object1994common,aslam2021survey,1,1,middleware,middleware
+SIENA,carzaniga2000achieving,aslam2021survey,1,1,service,middleware
+SIENA,carzaniga2001design,aslam2021survey,1,1,middleware service,middleware
+CEA,bacon2000generic,aslam2021survey,1,1,middleware platform,middleware
+SECO,haahr2000filtering,aslam2021survey,1,1,model,middleware
+JEDI,cugola2001jedi,aslam2021survey,1,1,middleware,middleware
+Elvin,segall2000content,aslam2021survey,1,1,system,middleware
+Elvin,sutton2001supporting,aslam2021survey,1,1,service,middleware
+Hermes,pietzuch2004hermes,aslam2021survey,1,1,middleware,middleware
+STEAM,meier2002steam,aslam2021survey,1,1,middleware,middleware
+STEAM,meier2003location,aslam2021survey,1,1,middleware,middleware
+STEAM,meier2005towards,aslam2021survey,1,1,middleware,middleware
+STEAM,meier2005proximity,aslam2021survey,1,1,middleware,middleware
+ToPSS,cugola2002using,aslam2021survey,0,1,middleware,middleware
+ToPSS,burcea2004disconnected,aslam2021survey,0,1,middleware,middleware
+S-ToPSS,petrovic2003stopss,aslam2021survey,1,1,middleware,middleware
+OPS,wang2004ontology,aslam2021survey,1,1,system,middleware
+A-TOPSS,liu2002atopss,aslam2021survey,1,1,system,middleware
+A-TOPSS,liu2004atopss,aslam2021survey,1,1,system,middleware
+A-TOPSS,liu2004modeling,aslam2021survey,1,1,system,middleware
+GREEN,sivaharan2005green,aslam2021survey,1,1,middleware,middleware
+EMMA,musolesi2006emma,aslam2021survey,1,1,middleware,middleware
+Mires,souto2006mires,aslam2021survey,1,1,middleware,middleware
+SensorBus,ribeiro2005sensorbus,aslam2021survey,1,1,middleware model,middleware
+WebSphere MQ,davies2005websphere,aslam2021survey,1,1,middleware,middleware
+MiSense,khedo2007meeca,aslam2021survey,1,1,middleware architecture,middleware
+MiSense,khedo2006misense,aslam2021survey,1,1,middleware architecture,middleware
+Rebeca,fiege2002engineering,aslam2021survey,1,1,middleware,middleware
+Rebeca,fiege2003supporting,aslam2021survey,1,1,middleware,middleware
+Rebeca,fiege2006publish,aslam2021survey,1,1,service,middleware
+FOMatch,zhang2008fomatch,aslam2021survey,1,1,system,middleware
+PSWare,lai2009psware,aslam2021survey,1,1,middleware,middleware
+TinyDDS,boonma2012tinydds,aslam2021survey,1,1,middleware,middleware
+PRISMA,silva2014prisma,aslam2021survey,1,1,middleware,middleware
+Mosquitto,light2017mosquitto,aslam2021survey,1,1,protocol,middleware
+@Hasan,hasan2016loose,aslam2021survey,1,1,,middleware
+@Hasan,hasan2012approximate,aslam2021survey,1,1,,middleware
+AWS IoT,,barros2022anatomy,0,1,,platform
+Azure IoT,,barros2022anatomy,0,1,,platform
+ThingWorx,,barros2022anatomy,0,1,,platform
+Watson IoT,,barros2022anatomy,0,1,,platform
+Google Cloud IoT,,barros2022anatomy,0,1,,platform
+Xively,,barros2022anatomy,0,1,,platform
+ThingSpeak,,barros2022anatomy,0,1,,platform
+OpenIoT,,barros2022anatomy,0,1,,platform
+SAP IoT,,barros2022anatomy,0,1,,platform
+LinkSmart,,barros2022anatomy,0,1,,platform
+FIWARE,,barros2022anatomy,0,1,,platform
+Cisco IoT,,barros2022anatomy,0,1,,platform
+SmartThings,,barros2022anatomy,0,1,,platform
+GSN,,barros2022anatomy,0,1,,platform
+CarrIoTs,,barros2022anatomy,0,1,,platform
+SENSEI,,barros2022anatomy,0,1,,platform
+NimBits,,barros2022anatomy,0,1,,platform
+SOCRADES,,barros2022anatomy,0,1,,platform
+Particle IoT,,barros2022anatomy,0,1,,platform
+Kaa IoT,,barros2022anatomy,0,1,,platform
+Predix IoT,,barros2022anatomy,0,1,,platform
+Bosch IoT,,barros2022anatomy,0,1,,platform
+OpenRemote,,barros2022anatomy,0,1,,platform
+Node-RED,,barros2022anatomy,0,1,,platform
+GplatformrooveStreams,,barros2022anatomy,0,1,,platform
+Exosite,,barros2022anatomy,0,1,,platform
+Ericsson IoT,,barros2022anatomy,0,1,,platform
+Ayla IoT,,barros2022anatomy,0,1,,platform
+Thinger.io,,barros2022anatomy,0,1,,platform
+Temboo Kosmos,,barros2022anatomy,0,1,,platform
+SiteWhere,,barros2022anatomy,0,1,,platform
+Paraimpu,,barros2022anatomy,0,1,,platform
+OpenMTC,,barros2022anatomy,0,1,,platform
+MOSDEN,,barros2022anatomy,0,1,,platform
+EvryThing,,barros2022anatomy,0,1,,platform
+CHOReOS,,barros2022anatomy,0,1,,platform
+Webinos,,barros2022anatomy,0,1,,platform
+Ubiware,,barros2022anatomy,0,1,,platform
+ubiSOAP,,barros2022anatomy,0,1,,platform
+UbiRoad,,barros2022anatomy,0,1,,platform
+TheThings.IO,,barros2022anatomy,0,1,,platform
+Stack4Things,,barros2022anatomy,0,1,,platform
+SOFIA,,barros2022anatomy,0,1,,platform
+SensorCloud,,barros2022anatomy,0,1,,platform
+Salesforce IoT,,barros2022anatomy,0,1,,platform
+Open.Sen.Se,,barros2022anatomy,0,1,,platform
+Mires,,barros2022anatomy,0,1,,platform
+Jasper Control Center,,barros2022anatomy,0,1,,platform
+IoTivity,,barros2022anatomy,0,1,,platform
+Hermes,,barros2022anatomy,0,1,,platform
+Eclipse IoT,,barros2022anatomy,0,1,,platform
+ClouT,,barros2022anatomy,0,1,,platform
+CloudPlugs,,barros2022anatomy,0,1,,platform
+Arrayent Connect,,barros2022anatomy,0,1,,platform
+Arkessa,,barros2022anatomy,0,1,,platform
+AllJoyn,,barros2022anatomy,0,1,,platform
+WSO2,,barros2022anatomy,0,1,,platform
+WoTKit,,barros2022anatomy,0,1,,platform
+Ubidots,,barros2022anatomy,0,1,,platform
+TinyDB,,barros2022anatomy,0,1,,platform
+ThingsBoard,,barros2022anatomy,0,1,,platform
+Tago,,barros2022anatomy,0,1,,platform
+SmartCityWare,,barros2022anatomy,0,1,,platform
+SmartSantander,,barros2022anatomy,0,1,,platform
+Sirena,,barros2022anatomy,0,1,,platform
+Siemens Mindsphere,,barros2022anatomy,0,1,,platform
+Servilla,,barros2022anatomy,0,1,,platform
+RUNES,,barros2022anatomy,0,1,,platform
+RealTime.IO,,barros2022anatomy,0,1,,platform
+Ptolemy,,barros2022anatomy,0,1,,platform
+PRISMA,,barros2022anatomy,0,1,,platform
+Plotly,,barros2022anatomy,0,1,,platform
+Parse Platform,,barros2022anatomy,0,1,,platform
+OpenStack,,barros2022anatomy,0,1,,platform
+myDevices,,barros2022anatomy,0,1,,platform
+MUSIC,,barros2022anatomy,0,1,,platform
+M2MLabs Mainspring,,barros2022anatomy,0,1,,platform
+Losant,,barros2022anatomy,0,1,,platform
+Lelylan,,barros2022anatomy,0,1,,platform
+Konker IoT,,barros2022anatomy,0,1,,platform
+In.IoT,,barros2022anatomy,0,1,,platform
+Impala,,barros2022anatomy,0,1,,platform
+Huawei OceanConnect,,barros2022anatomy,0,1,,platform
+Hitachi Lumada,,barros2022anatomy,0,1,,platform
+GREEN,,barros2022anatomy,0,1,,platform
+Eurotech Everywhere IoT,,barros2022anatomy,0,1,,platform
+Echelon,,barros2022anatomy,0,1,,platform
+DPWS,,barros2022anatomy,0,1,,platform
+DIAT,,barros2022anatomy,0,1,,platform
+DeviceHive,,barros2022anatomy,0,1,,platform
+Cumulocity,,barros2022anatomy,0,1,,platform
+C3 IoT,,barros2022anatomy,0,1,,platform
+Axeda,,barros2022anatomy,0,1,,platform
+Aura,,barros2022anatomy,0,1,,platform
+AT&T IoT,,barros2022anatomy,0,1,,platform
+ARM Mbed,,barros2022anatomy,0,1,,platform
+Altair SmartWorks,,barros2022anatomy,0,1,,platform
+AirVantage,,barros2022anatomy,0,1,,platform
+Agilla,,barros2022anatomy,0,1,,platform
+M-Hub,gomes2017comprehensive,duarte2020using,1,1,middleware,middleware
+CoCaMAAL,forkan2014cocamaal,duarte2020using,1,1,middleware,middleware
+Dem@Home,andreadis2016home,duarte2020using,1,1,framework,middleware
+SBUS,singh2014middleware,duarte2020using,1,1,middleware,middleware
+@Caione,caione2017rapid,duarte2020using,0,1,middleware,middleware
+SIaaS,machado2017reactive,duarte2020using,0,1,middleware,middleware
+SEN,modoni2018semantic,duarte2020using,1,1,middleware,middleware
+LinkSmart,linksmart,friha2021internet,0,1,,middleware
+GSN,gsn,friha2021internet,0,1,middleware,middleware platform
+Node-RED,nodered,friha2021internet,0,1,,middleware platform
+FIWARE,araujo2019performance,friha2021internet,0,1,platform,platform
+OpenIoT,openiot,friha2021internet,0,1,platform,middleware platform
+CASCOM,perera2016knowledge,goudarzi2022resource,1,1,middleware platform,middleware
+iSensitive,caglar2016intelligent,goudarzi2022resource,1,1,,middleware
+MARRS-IoT,bharti2020middleware,goudarzi2022resource,1,1,middleware,middleware
+AMF-CPS,chang2020agent,goumopoulos2024smart,1,1,middleware framework,middleware
+CityPulse,ali2016citypulse,goumopoulos2024smart,1,1,framework,middleware
+Civitas,villanueva2013civitas,goumopoulos2024smart,1,1,middleware,middleware
+FIWARE,cirillo2019standard,goumopoulos2024smart,1,1,platform,middleware
+FogFlow,cheng2017fogflow,goumopoulos2024smart,1,1,framework,middleware
+GAMBAS,apolinarski2014gambas,goumopoulos2024smart,1,1,middleware,middleware
+InterSCity,del2017interscity,goumopoulos2024smart,1,1,platform,middleware
+@Patti,patti2014event,goumopoulos2024smart,1,1,,middleware
+LinkSmart,,goumopoulos2024smart,0,1,,middleware
+MiSCi,aguilar2020performance,goumopoulos2024smart,1,1,middleware,middleware
+OpenIoT,soldatos2015openiot,goumopoulos2024smart,1,1,platform,middleware
+Rimware,huo2014middleware,goumopoulos2024smart,1,1,middleware,middleware
+S2NetM,pliatsios2023s2netm,goumopoulos2024smart,1,1,middleware,middleware
+SEDIA,lymperis2023sedia,goumopoulos2024smart,1,1,platform,middleware
+SGeoL,pereira2022platform,goumopoulos2024smart,1,1,platform,middleware
+SMArc,rodriguez2013smarc,goumopoulos2024smart,1,1,middleware,middleware
+SmartCityWare,mohamed2017smartcityware,goumopoulos2024smart,1,1,middleware,middleware
+SmartSantander,sanchez2014smartsantander,goumopoulos2024smart,1,1,,middleware
+Snap4City,badii2018snap4city,goumopoulos2024smart,1,1,platform,middleware
+SOUL,jung2017processing,goumopoulos2024smart,1,1,middleware,middleware
+WeValue,scekic2018blockchain,goumopoulos2024smart,1,1,platform,middleware
+FIWARE,fiware,jagarlamudi2022requirements,0,1,,framework
+CA4IOT,perera2012ca4iot,jagarlamudi2022requirements,1,1,architecture,framework
+CoaaS,hassani2018context,jagarlamudi2022requirements,1,1,,framework
+BDCaM,forkan2015bdcam,jagarlamudi2022requirements,1,1,framework,framework
+CoCaMAAL,forkan2014cocamaal,jagarlamudi2022requirements,1,1,middleware,framework
+SeCoMan,celdran2014secoman,jagarlamudi2022requirements,1,1,framework,platform
+COSMOS,sankaranarayanan2011cosmos,jagarlamudi2022requirements,1,1,,platform
+ACoMs+,hu2010context,jagarlamudi2022requirements,1,1,middleware,framework
+CAMPUS,wei2013campus,jagarlamudi2022requirements,1,1,middleware,platform
+CASF,kang2013context,jagarlamudi2022requirements,1,1,framework,platform
+AWS IoT,awsiot,kassab2020az,0,1,,platform
+Azure IoT,azureiot,kassab2020az,0,1,,platform
+Watson IoT,[IBM Watson IoT],kassab2020az,0,1,platform,platform
+Google Cloud IoT,googledev,kassab2020az,0,1,,platform
+Xively,xively,kassab2020az,0,1,,middleware
+Oracle IoT,oracleiot,kassab2020az,0,1,,platform
+LinkSmart,eisenhauer2010hydra,kassab2020az,1,1,middleware platform,platform
+Kaa IoT,kaaiot,kassab2020az,0,1,platform,platform
+GSN,gsngithub,kassab2020az,0,1,middleware,platform
+ThingSpeak,thingspeak,kassab2020az,0,1,platform,platform
+Aura,aura,kassab2020az,0,1,middleware,middleware
+Calvin,persson2015calvin,kassab2020az,1,1,framework,platform
+Node-RED,nodered,kassab2020az,0,1,,platform
+Ptolemy,ptolemy,kassab2020az,0,1,,platform
+Akka,akka,kassab2020az,0,1,,platform
+Hermes,pietzuch2004hermes,kassab2020az,1,1,middleware,middleware
+Hermes,corradini2005hermes,kassab2020az,1,1,middleware,middleware
+Gryphon,,kassab2020az,0,1,,middleware
+Rebeca,,kassab2020az,0,1,,middleware
+FIWARE,fiwaretutorial,kassab2020az,0,1,,platform
+Altair SmartWorks,altair,martinlopo2020literature,0,1,,middleware
+DeviceHive,devicehive,martinlopo2020literature,0,1,platform,middleware
+Kaa IoT,kaaproject,martinlopo2020literature,0,1,,middleware
+myDevices,mydevices,martinlopo2020literature,0,1,,middleware
+ThingPlus,thingplus,martinlopo2020literature,0,1,,middleware
+ThingWorx,thingworx,martinlopo2020literature,0,1,,middleware
+Watson IoT,watsoniot,martinlopo2020literature,0,1,,middleware
+In.IoT,cruz2020iot,medeiros2022middleware,1,1,middleware,middleware
+SEnviro Connect,trilles2020iot,medeiros2022middleware,1,1,platform,middleware
+OneM2M|@Zhao,zhao2018onem2m,medeiros2022middleware,1,1,middleware,middleware
+CUPUS,antonic2016mobile,medeiros2022middleware,1,1,middleware,middleware
+@Xie,xie2020multilayer,medeiros2022middleware,1,1,middleware,middleware
+InterSCity,esposte2019design,medeiros2022middleware,1,1,platform,middleware
+MiddleBridge,cruz2019proposal,medeiros2022middleware,1,1,gateway,middleware
+@Georgi,georgi2018middleware,medeiros2022middleware,1,1,middleware,middleware
+CoIoT,souza2019continuous,medeiros2022middleware,1,1,middleware,middleware
+M-Hub,gomes2017middleware,medeiros2022middleware,1,1,middleware,middleware
+SWaMM,alvisi2019wireless,medeiros2022middleware,1,1,middleware,middleware
+Thinger.io,bustamante2019thinger,medeiros2022middleware,1,1,platform,middleware
+Cilia,lalanda2017autonomic,medeiros2022middleware,1,1,middleware,middleware
+DeXMS,bouloukakis2019automated,medeiros2022middleware,1,1,middleware,middleware
+MsM,benayache2019msm,medeiros2022middleware,1,1,middleware,middleware
+SmartCityWare,mohamed2017smartcityware,medeiros2022middleware,1,1,middleware,middleware
+MinT,jeon2017mint,medeiros2022middleware,1,1,middleware,middleware
+@Lilis,lilis2018secure,medeiros2022middleware,1,1,middleware,middleware
+eVATAR+,dipsis2020restful,medeiros2022middleware,1,1,middleware,middleware
+MSOAH-IoT,mesmoudi2020middleware,medeiros2022middleware,1,1,middleware,middleware
+OpenStack|@Merlino,merlino2019enabling,medeiros2022middleware,1,1,middleware,middleware
+RDS,shokrollahi2017rich,medeiros2022middleware,1,1,approach,middleware
+QoSDREAM,naguib2001middleware,pradeep2019mom,1,0,middleware framework,middleware
+Aura,sousa2002aura,pradeep2019mom,1,0,framework,middleware
+GAIA,roman2002gaia,pradeep2019mom,1,1,middleware platform,middleware
+RCSM,yau2002reconfigurable,pradeep2019mom,1,0,middleware,middleware
+CARISMA,capra2003carisma,pradeep2019mom,1,0,middleware,middleware
+Impala,liu2003impala,pradeep2019mom,1,1,middleware,middleware
+MobiPADS,chan2003mobipads,pradeep2019mom,1,0,middleware,middleware
+TOTA,mamei2003tuples,pradeep2019mom,1,0,middleware,middleware
+CORTEX,sorensen2004context,pradeep2019mom,1,0,middleware,middleware
+CoBrA,chen2004intelligent,pradeep2019mom,1,0,broker,middleware
+CAPNET,davidyuk2004context,pradeep2019mom,1,0,middleware,middleware
+CASS,fahy2004cass,pradeep2019mom,1,0,middleware,middleware
+MiddleWhere,ranganathan2004middlewhere,pradeep2019mom,1,0,middleware,middleware
+MoCA,sacramento2004moca,pradeep2019mom,1,0,middleware,middleware
+Sensation,hasiotis2005sensation,pradeep2019mom,1,1,middleware,middleware
+SensorBus,ribeiro2005sensorbus,pradeep2019mom2,1,1,middleware,middleware
+TeenyLIME,costa2006teenylime,pradeep2019mom,1,1,middleware,middleware
+RUNES,costa2007runes,pradeep2019mom,1,1,middleware,middleware
+MUSIC,rouvoy2008music,pradeep2019mom,1,1,,middleware
+SOCRADES,souza2008socrades,pradeep2019mom,1,1,middleware,middleware
+Agilla,fok2009agilla,pradeep2019mom,1,1,middleware,middleware
+LinkSmart,eisenhauer2010hydra,pradeep2019mom,1,1,platform,middleware
+SENSEI,tsiatsis2010sensei,pradeep2019mom,1,1,architecture,middleware
+UbiRoad,terziyan2010ubiroad,pradeep2019mom,1,1,middleware,middleware
+MARCHES,liu2011context,pradeep2019mom,1,0,middleware,middleware
+MufFIN,valente2011middleware,pradeep2019mom,1,1,middleware framework,middleware
+CA4IOT,perera2012ca4iot,pradeep2019mom,1,1,architecture,middleware
+ContextNet,david2012communication,pradeep2019mom,1,0,middleware,middleware
+KASOM,corredor2012knowledge,pradeep2019mom,1,1,middleware,middleware
+Mobilehealthnet,teles2012mobilehealthnet,pradeep2019mom,1,0,middleware,middleware
+Servilla,fok2012servilla,pradeep2019mom,1,0,middleware,middleware
+ubiSOAP,caporuscio2010ubisoap,pradeep2019mom,1,1,middleware,middleware
+@Olaru,olaru2013context,pradeep2019mom,1,0,middleware,middleware
+CAMPUS,wei2013campus,pradeep2019mom,1,1,middleware,middleware
+@Vahdat,vahdat2013context,pradeep2019mom,1,1,middleware,middleware
+CASF,kang2013context,pradeep2019mom,1,1,framework,middleware
+CHOReOS,hamida2013integrated,pradeep2019mom,1,1,middleware,middleware
+Rover-II,krishnamoorthy2013rover,pradeep2019mom,1,0,middleware,middleware
+CAMEO,arnaboldi2014cameo,pradeep2019mom,1,1,middleware,middleware
+CoCaMAAL,forkan2014cocamaal,pradeep2019mom,1,1,middleware,middleware
+PRISMA,silva2014prisma,pradeep2019mom,1,1,middleware,middleware
+AIoTm,sathyadevan2015architectural,pradeep2019mom,0,1,architecture,middleware
+FlexRFID,el2015policy,pradeep2019mom,1,0,middleware,middleware
+IMM,evchina2015context,pradeep2019mom,1,1,middleware,middleware
+IoP,miranda2015internet,pradeep2019mom,1,1,architecture,middleware
+SeCoMan,celdran2014secoman,pradeep2019mom,1,1,framework,middleware
+CONASYS,matos2017sensing,pradeep2019mom,1,1,system,middleware
+@Hoque,hoque2017development,pradeep2019mom,1,1,middleware,middleware
+Eagilla,lingaraj2018eagilla,pradeep2019mom,1,1,middleware,middleware
+POSTMAN,li2017research,pradeep2019mom,1,0,middleware,middleware
+CARMEN,bellavista2003context,pradeep2019mom,1,1,middleware,system
+MiLAN,murphy2002milan,pradeep2019mom,1,1,middleware,system
+@Ranganathan,ranganathan2003middleware,pradeep2019mom,1,1,middleware,system
+@Huebscher,huebscher2004adaptive,pradeep2019mom,1,1,middleware,system
+CAMUS,ngo2004developing,pradeep2019mom,1,1,middleware framework,system
+HOMEROS,han2004new,pradeep2019mom,1,1,middleware,system
+AmbieAgents,lech2005ambieagents,pradeep2019mom,1,0,architecture,system
+AMUSE,takahashi2005amuse,pradeep2019mom,1,1,middleware,system
+CASM,park2005middleware,pradeep2019mom,1,1,middleware,system
+Colombo,curbera2005colombo,pradeep2019mom,1,0,middleware,system
+GREEN,sivaharan2005green,pradeep2019mom,1,1,middleware,system
+PACE,henricksen2005middleware,pradeep2019mom,1,1,middleware,system
+TinyLIME,curino2005mobile,pradeep2019mom,1,1,middleware,system
+SOCAM,gu2005service,pradeep2019mom,1,1,middleware,system
+Cumulus,wohlstadter2006service,pradeep2019mom,1,0,middleware,system
+@Bottazzi,bottazzi2006context,pradeep2019mom,1,1,middleware,system
+CAMPS,qin2006camps,pradeep2019mom,1,1,middleware,system
+MobiGATE,zheng2006mobigate,pradeep2019mom,1,1,middleware,system
+@Soldatos,soldatos2007agent,pradeep2019mom,1,1,middleware,system
+CROWN-C,townend2007crown,pradeep2019mom,1,0,middleware,system
+MidCASE,bai2007midcase,pradeep2019mom,1,1,middleware,system
+SAMOA,bottazzi2007context,pradeep2019mom,1,1,middleware,system
+WISSE,lopez2007context,pradeep2019mom,1,1,middleware,system
+MidFusion,alex2008midfusion,pradeep2019mom,1,1,middleware,system
+SOA-MM,groba2008service,pradeep2019mom,1,1,middleware,system
+Solar,chen2008data,pradeep2019mom,1,1,middleware,system
+TS-Mid,lima2008ts,pradeep2019mom,1,1,middleware,system
+CAMPH,pung2009context,pradeep2019mom,1,1,middleware,system
+iBICOOP,bennaceur2009ibicoop,pradeep2019mom,1,1,middleware,system
+MobiSoC,gupta2009mobisoc,pradeep2019mom,1,0,middleware,system
+Comihoc,wibisono2010comihoc,pradeep2019mom,1,0,middleware,system
+@Boldrini,boldrini2010context,pradeep2019mom,1,0,middleware,system
+@Zhou,zhou2010context,pradeep2019mom,1,0,middleware,system
+@Jeong,jeong2010large,pradeep2019mom,1,1,middleware,system
+Yarta,toninelli2011yarta,pradeep2019mom,1,0,middleware,system
+@Roalter,roalter2010middleware,pradeep2019mom,1,1,middleware,system
+iConAwa,yilmaz2012iconawa,pradeep2019mom,1,1,system,system
+SCIMS,kabir2012scims,pradeep2019mom,1,0,system,system
+SeSaMe,baresi2013sesame,pradeep2019mom,1,1,middleware,system
+BEMO-COFRA,sadok2015middleware,pradeep2019mom,1,1,middleware,system
+RAON,lau2017context,pradeep2019mom,1,0,middleware,system
+Senz,zhang2017senz,pradeep2019mom,1,1,middleware,system
+MidSHM,sahni2018midshm,pradeep2019mom,1,1,middleware,system
+symbIoTe,symbiote,rahman2020comprehensive,0,1,,middleware
+SensorML,sensorml,rahman2020comprehensive,0,1,language,middleware
+LinkSmart,sarnovsky2007device,rahman2020comprehensive,1,1,middleware,middleware
+SENSEI,tsiatsis2010sensei,rahman2020comprehensive,1,1,architecture,middleware
+Hermes,pietzuch2004hermes,rahman2020comprehensive,1,1,middleware,middleware
+OpenIoT,soldatos2015openiot,rahman2020comprehensive,1,1,platform,middleware
+X-GSN,calbimonte2014xgsn,rahman2020comprehensive,1,1,middleware,middleware
+MOSDEN,perera2014mosden,rahman2020comprehensive,1,1,middleware,middleware
+bIoTope,biotope,rahman2020comprehensive,0,1,,middleware
+BIG IoT,bigiot,rahman2020comprehensive,0,1,system,middleware
+VICINITY,vicinity,rahman2020comprehensive,0,1,,middleware
+CHOReOS,vincent2010choreos,rahman2020comprehensive,1,1,middleware,middleware
+JADE,jade,rahman2020comprehensive,0,1,framework,middleware
+AutoSec,han2001autosec,rahman2020comprehensive,1,1,middleware framework,middleware
+MiLAN,murphy2002milan,rahman2020comprehensive,1,1,middleware,middleware
+MidFusion,alex2008midfusion,rahman2020comprehensive,1,1,middleware,middleware
+@Sahlmann,sahlmann2018ontology,rahman2020comprehensive,1,1,,middleware
+Mires,,shammar2020internet,0,1,,middleware
+MQTT-S,,shammar2020internet,0,1,,middleware
+LooCI,,shammar2020internet,0,1,,middleware
+DPWS,,shammar2020internet,0,1,,middleware
+SensorsMW,,shammar2020internet,0,1,,middleware
+LinkSmart,,shammar2020internet,0,1,,middleware
+SENSEI,,shammar2020internet,0,1,,middleware
+TinyDB,,shammar2020internet,0,1,,middleware
+VITRO,,shammar2020internet,0,1,,middleware
+Ubiware,,shammar2020internet,0,1,,middleware
+GSN,,shammar2020internet,0,1,,middleware
+Fosstrak,,shammar2020internet,0,1,,middleware
+TinyREST,,shammar2020internet,0,1,,middleware
+Play/Stage,,shammar2020internet,0,1,,middleware
+Robotic Operating System,,shammar2020internet,0,1,,middleware
+Google Fit,,shammar2020internet,0,1,,middleware
+Xively,,shammar2020internet,0,1,,middleware
+Paraimpu,,shammar2020internet,0,1,,middleware
+Calvin,,shammar2020internet,0,1,,middleware
+Node-RED,,shammar2020internet,0,1,,middleware
+Ptolemy,,shammar2020internet,0,1,,middleware
+Hermes,,shammar2020internet,0,1,,middleware
+EMMA,,shammar2020internet,0,1,,middleware
+GREEN,,shammar2020internet,0,1,,middleware
+RUNES,,shammar2020internet,0,1,,middleware
+PRISMA,,shammar2020internet,0,1,,middleware
+SensorBus,,shammar2020internet,0,1,,middleware
+SenseWrap,,shammar2020internet,0,1,,middleware
+MUSIC,,shammar2020internet,0,1,,middleware
+TinySOA,,shammar2020internet,0,1,,middleware
+SOCRADES,,shammar2020internet,0,1,,middleware
+ubiSOAP,,shammar2020internet,0,1,,middleware
+Servilla,,shammar2020internet,0,1,,middleware
+KASOM,,shammar2020internet,0,1,,middleware
+CHOReOS,,shammar2020internet,0,1,,middleware
+MOSDEN,,shammar2020internet,0,1,,middleware
+CarrIoTs,,shammar2020internet,0,1,,middleware
+Echelon,,shammar2020internet,0,1,,middleware
+Maté,,shammar2020internet,0,1,,middleware
+Melete,,shammar2020internet,0,1,,middleware
+MagnetOS,,shammar2020internet,0,1,,middleware
+SwissQM,,shammar2020internet,0,1,,middleware
+TinyReef,,shammar2020internet,0,1,,middleware
+DVM,,shammar2020internet,0,1,,middleware
+Impala,,shammar2020internet,0,1,,middleware
+ActorNet,,shammar2020internet,0,1,,middleware
+Agilla,,shammar2020internet,0,1,,middleware
+UbiRoad,,shammar2020internet,0,1,,middleware
+AFME,,shammar2020internet,0,1,,middleware
+MAPS,,shammar2020internet,0,1,,middleware
+MASPOT,,shammar2020internet,0,1,,middleware
+TinyMAPS,,shammar2020internet,0,1,,middleware
+LIME,,shammar2020internet,0,1,,middleware
+TinyLIME,,shammar2020internet,0,1,,middleware
+TeenyLIME,,shammar2020internet,0,1,,middleware
+TS-Mid,,shammar2020internet,0,1,,middleware
+A3-TAG,,shammar2020internet,0,1,,middleware
+SINA,,shammar2020internet,0,1,,middleware
+Cougar,,shammar2020internet,0,1,,middleware
+IrisNet,,shammar2020internet,0,1,,middleware
+Sensation,,shammar2020internet,0,1,,middleware
+KSpot+,,shammar2020internet,0,1,,middleware
+HyCache,,shammar2020internet,0,1,,middleware
+AutoSec,,shammar2020internet,0,1,,middleware
+MiLAN,,shammar2020internet,0,1,,middleware
+TinyCubus,,shammar2020internet,0,1,,middleware
+MidFusion,,shammar2020internet,0,1,,middleware
+CUPUS,antonic2016mobile,siddiqui2022toward,1,1,middleware,middleware
+SDNPS,wang2016sdnps,siddiqui2022toward,1,1,system,middleware
+SDN-DDS,hakiri2015publish,siddiqui2022toward,1,1,middleware architecture,middleware
+@Wang,wang2018sdn,siddiqui2022toward,1,1,middleware platform,middleware
+PSIoT-SDN,moraes2019pub,siddiqui2022toward,1,1,framework,middleware
+SDIoT,jararweh2015sdiot,siddiqui2022toward,1,1,framework,middleware
+SDN-WISE,galluccio2015sdn,siddiqui2022toward,1,1,,middleware
+@Jacobsson,jacobsson2015using,siddiqui2022toward,1,1,architecture,middleware
+@Jacquenet,jacquenet2019software,siddiqui2022toward,1,1,,middleware
+UbiFlow,wu2015ubiflow,siddiqui2022toward,1,1,system,middleware
+@Akram,akram2016rethinking,siddiqui2022toward,1,1,architecture,middleware
+@Wan,wan2016software,siddiqui2022toward,1,1,architecture,middleware
+@Zhou,zhou2016sdn,siddiqui2022toward,1,1,framework,middleware
+REMOA,arbiza2015refactoring,siddiqui2022toward,1,1,middleware,middleware
+@Ouedraogo,ouedraogo2018enhancing,siddiqui2022toward,1,1,mididleware,middleware
+@Romero,romero2018software,siddiqui2022toward,1,1,architecture,middleware
+@Khan,khan2017software,siddiqui2022toward,1,1,framework,middleware
+@Aazam2020,aazam2020cloud,silva2023energy,1,1,model,middleware
+MSM,song2017extemporaneous,silva2023energy,1,1,middleware,middleware
+Omni,kalbarczyk2018omni,silva2023energy,1,1,framework,middleware
+EATDDS,al2019eatdds,silva2023energy,1,1,middleware,middleware
+LooCI,akkermans2016towards,silva2023energy,1,1,middleware,middleware
+URMILA,shekhar2019urmila,silva2023energy,1,1,middleware,middleware
+MinT,jeon2017mint,silva2023energy,1,1,middleware,middleware
+@Cecchinel,cecchinel2019leveraging,silva2023energy,1,1,middleware,middleware
+@Padhy,padhy2017middleware,silva2023energy,1,1,middleware,middleware
+@Oliveira,oliveira2020energy,silva2023energy,1,1,workflow,middleware
+AURA,pasricha2018overcoming,silva2023energy,1,1,middleware,middleware
+VSF,sarkar2016vsf,silva2023energy,1,1,framework,middleware
+@Aazam2021,aazam2021task,silva2023energy,1,1,,middleware
+EdgeDrone,mukherjee2020edgedrone,silva2023energy,1,1,middleware,middleware
+SACHSEN,li2014efficient,silva2023energy,1,1,middleware,middleware
+MoPS,podnar2013publish,silva2023energy,1,1,middleware,middleware
+@Al-Madani,almadani2018energy,silva2023energy,1,1,platform,middleware
+@Banouar,banouar2017analytical,silva2023energy,1,1,middleware,middleware
+WuKong,huang2014energy,silva2023energy,1,1,middleware,middleware
+LooCI,ramachandran2016hitch,silva2023energy,1,1,middleware,middleware
+IMM,evchina2015context,souki2022survey,1,1,middleware,middleware
+BEMO-COFRA,sadok2015middleware,souki2022survey,1,1,middleware,middleware
+IoP,,souki2022survey,0,1,,middleware
+SeCoMan,,souki2022survey,0,1,,middleware
+CONASYS,,souki2022survey,0,1,,middleware
+POSTMAN,,souki2022survey,0,1,,middleware
+RAON,,souki2022survey,0,1,,middleware
+Senz,,souki2022survey,0,1,,middleware
+MidSHM,,souki2022survey,0,1,,middleware
+CASSARAM,perera2013context,souki2022survey,1,1,,middleware
+@Song,song2010semantic,souki2022survey,1,1,,middleware
+MOSDEN,perera2014mosden,souki2022survey,1,1,middleware,middleware
+CARMiCLOC,aguilar2018cameonto,souki2022survey,1,1,middleware,middleware
+CARMiCLOC,aguilar2015carmicloc,souki2022survey,1,1,middleware,middleware
+SAM,baraki2018sam,souki2022survey,0,1,,middleware
+LinkSmart,badii2010context,souki2022survey,1,1,middleware framework,middleware
+ABC&S,ji2014cloud,souki2022survey,1,1,middleware,middleware
+CHOReOS,hamida2013integrated,souki2022survey,1,1,middleware,middleware
+C-MOSDEN,,souki2022survey,0,1,,middleware
+OpenIoT,,souki2022survey,0,1,,middleware
+ThingWorx,,souki2022survey,0,1,,middleware
+CarrIoTs,,souki2022survey,0,1,,middleware
+DropLock,le2015middleware,souki2022survey,1,1,middleware,middleware
+Rimware,,souki2022survey,0,1,,middleware
+Xively,,souki2022survey,0,1,,middleware
+CADeComp,ayed2008cadecomp,souki2022survey,1,1,middleware,middleware
+CAPUCCINO,,souki2022survey,0,1,,middleware
+Dynaco,,souki2022survey,0,1,,middleware
+GAIA,,souki2022survey,0,1,,middleware
+Kalimucho,,souki2022survey,0,1,,middleware
+MUSIC,,souki2022survey,0,1,,middleware
+UbiStar,,souki2022survey,0,1,,middleware
+WComp,,souki2022survey,0,1,,middleware
+MidFusion,alex2008midfusion,vikash2021middleware,1,1,middleware,middleware
+TinyCubus,marron2005tinycubus,vikash2021middleware,1,1,framework,middleware
+GSN,aberer2006global,vikash2021middleware,1,1,middleware,middleware
+IrisNet,gibbons2003irisnet,vikash2021middleware,1,1,architecture,middleware
+Hermes,pietzuch2004hermes,vikash2021middleware,1,1,middleware,middleware
+PRISMA,silva2014prisma,vikash2021middleware,1,1,middleware,middleware
+RUNES,costa2007runes,vikash2021middleware,1,1,middleware,middleware
+LinkSmart,eisenhauer2010hydra,vikash2021middleware,1,1,middleware platform,middleware
+SOCRADES,guinard2010interacting,vikash2021middleware,1,1,,middleware
+SENSEI,tsiatsis2010sensei,vikash2021middleware,1,1,architecture,middleware
+SwissQM,mueller2007swissqm,vikash2021middleware,1,1,architecture,middleware
+TinyVM,hong2012tinyvm,vikash2021middleware,1,1,infrastructure,middleware
+MASPOT,lopes2011maspot,vikash2021middleware,1,1,mobile agent system,middleware
+UbiRoad,terziyan2010ubiroad,vikash2021middleware,1,1,middleware,middleware
+A3-TAG,baresi2013achieving,vikash2021middleware,1,1,middleware,middleware
+TS-Mid,lima2008ts,vikash2021middleware,1,1,middleware,middleware
+LinkSmart,linksmart,zhang2021middleware,0,1,,middleware
+LinkSmart,hydra,zhang2021middleware,0,1,middleware,middleware
+LinkSmart,eisenhauer2010hydra,zhang2021middleware,1,1,middleware platform,middleware
+CoCaMAAL,forkan2014cocamaal,zhang2021middleware,1,1,middleware,middleware
+BDCaM,forkan2015bdcam,zhang2021middleware,1,1,framework,middleware
+Atlas,king2006atlas,zhang2021middleware,1,1,middleware platform,middleware
+Atlas,xu2014optimization,zhang2021middleware,1,1,middleware platform,middleware
+Atlas,xu2014application,zhang2021middleware,1,1,middleware platform,middleware
+Atlas,xu2015scalable,zhang2021middleware,1,1,middleware platform,middleware
+IoT-MP,elkhodr2015smart,zhang2021middleware,1,1,platform,middleware
+PRISMA,silva2014prisma,zhang2021middleware,1,1,middleware,middleware
+SeCoMan,celdran2014secoman,zhang2021middleware,1,1,framework,middleware
+SenSocial,mehrotra2014sensocial,zhang2021middleware,1,1,middleware,middleware
+Maté,levis2002mate,zhang2021middleware,1,1,vm,middleware
+SensorWare,boulis2007sensorware,zhang2021middleware,1,1,framework,middleware
+Actinium,kovatsch2012actinium,zhang2021middleware,1,1,runtime container,middleware
+MODE,zhang2020demand,zhang2021middleware,1,1,middleware,middleware
+TinyDB,madden2005tinydb,zhang2021middleware,1,1,query processor,middleware
+SINA,shen2001sensor,zhang2021middleware,1,1,middleware,middleware
+Cougar,bonnet2001towards,zhang2021middleware,1,1,system,middleware
+DSWare,li2003event,zhang2021middleware,1,1,middleware,middleware
+Agilla,fok2009agilla,zhang2021middleware,1,1,middleware,middleware
+Eagilla,lingaraj2018eagilla,zhang2021middleware,1,1,middleware,middleware
+ACOSO,fortino2013agent,zhang2021middleware,1,1,middleware,middleware
+ACOSO,fortino2017agent,zhang2021middleware,1,1,middleware,middleware
+Sensomax,haghighi2013sensomax,zhang2021middleware,1,1,middleware,middleware
