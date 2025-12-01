@@ -354,10 +354,10 @@ def time_range(
     ] = "data/selected-reviews.bib",
     mw: Annotated[
         Path, Option(help="Path to csv file with middleware data")
-    ] = "tables/middlewares.csv",
+    ] = "data/middlewares.csv",
     mw_bib: Annotated[
         Path, Option(help="Path to bib file with middleware data")
-    ] = "tables/middlewares.bib",
+    ] = "data/middlewares.bib",
 ):
     """Plot time range covered by reviews."""
     out: Path = ctx.obj["out"]
@@ -375,7 +375,7 @@ def time_range(
     print("Min year:")
     print(df.groupby(Col.is_systematic)["mw_year"].min())
 
-    with Plot(out / "time-range.png", figsize=(8, 4)) as (_, ax):
+    with Plot(out / "time-range.png", figsize=(8, 3)) as (_, ax):
         sns.histplot(
             data=df,
             x="mw_year",
@@ -395,7 +395,7 @@ def time_range(
     print("Mean time diff:")
     print(diff_df.groupby(Col.is_systematic)["diff"].median())
 
-    with Plot(out / "time-diff.png", figsize=(8, 3)) as (_, ax):
+    with Plot(out / "time-diff.png", figsize=(8, 2)) as (_, ax):
         sns.boxplot(
             data=diff_df,
             x="diff",
@@ -416,7 +416,7 @@ def aspects(
     aspect: Annotated[Aspect, Argument(help="Which aspect to plot")],
     path: Annotated[
         Path, Option(help="Path to csv file with aspects data")
-    ] = "data/middlewares.bib",
+    ] = "data/detailed-aspects.csv",
     min: Annotated[int, Option(help="Min number of mentions to include an item")] = 1,
     n: Annotated[Optional[int], Option(help="Max number of items to plot")] = None,
 ):
@@ -433,7 +433,9 @@ def aspects(
     items = items.iloc[::-1]
     ticks = list(items.index)
 
-    with Plot(out / f"aspect-{aspect.slug()}.png") as (_, ax):
+    with Plot(
+        out / f"aspect-{aspect.slug()}.png", figsize=(6, 4 if len(items) > 9 else 2)
+    ) as (_, ax):
         ax.xaxis.set_major_locator(MaxNLocator(integer=True))
         p = plt.barh(y=ticks, width=items)
         plt.bar_label(
@@ -515,7 +517,7 @@ def venn3_from_df(
         ).sum()
         for bools in product(*repeat((False, True), 3))
     }
-    venn3(
+    out = venn3(
         subsets=set_counts,
         set_labels=labels,
         set_colors=colors,
@@ -524,3 +526,7 @@ def venn3_from_df(
         ),
         ax=ax,
     )
+    for text in out.set_labels:
+        text.set_fontsize(14)
+    for text in out.subset_labels:
+        text.set_fontsize(16)
