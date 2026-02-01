@@ -17,7 +17,7 @@ executing==2.2.0
 fonttools==4.55.1
 frozenlist==1.7.0
 fsspec==2025.5.1
-geopandas==1.0.1
+geopandas==1.1.2
 idna==3.10
 ipykernel==6.29.5
 ipython==9.2.0
